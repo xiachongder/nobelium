@@ -62,9 +62,6 @@ pre[class*='language-'] {
   @apply w-auto;
   @apply px-0;
 }
-.notion-quote {
-  padding: 0.2em 0.9em;
-}
 .notion-collection {
   @apply max-w-full;
 }
